@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Jim wants a #8 for eat-in
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
 -->
 
 <!DOCTYPE order SYSTEM 'bonanza.dtd'>
@@ -8,10 +10,10 @@ Jim wants a #8 for eat-in
 <order type="eatin">
     <customer>Jim</customer>
     <burger>
-        <patty type="beef"/>
-        <cheeses top="gruyere"/>
-        <topping type="shrooms"/>
-        <sauce type="ketchup"/>
-        <sauce type="mayo"/>
+           <patty type="beef"/>
+           <cheeses top="gruyere"/>
+           <topping type="shrooms"/>
+           <sauce type="ketchup"/>
+           <sauce type="mayo"/>
     </burger>
 </order>
